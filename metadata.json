@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ScolarSync - Gestion de Présence",
+  "description": "Une plateforme complète pour la gestion des écoles, le suivi des présences des élèves et un portail parent sécurisé.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
